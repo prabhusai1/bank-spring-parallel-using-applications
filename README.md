@@ -1,1 +1,1 @@
-# bank-spring-parallel-using-applications
+# bank-spring-parallel-using-collections
